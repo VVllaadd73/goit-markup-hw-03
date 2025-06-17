@@ -44,7 +44,7 @@ address .cls-ul {
 
 header .container {
 	display: flex;
-	padding: 24px;
+	padding: 24px 15px;
 	justify-content: space-between;
 }
 
@@ -107,6 +107,8 @@ h3 {
 	margin: 0 auto;
 	padding: 0 15px;
 }
+
+
 
 .cls-h {
 	color: #FFFFFF;
@@ -244,6 +246,10 @@ h2 {
 	text-transform: uppercase;
 	color: #4d5ae5;
 	margin-right: 76px;
+}
+
+footer .cls-logo {
+	margin-bottom: 16px;
 }
 
 .cls-studio {
