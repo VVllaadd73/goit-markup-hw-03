@@ -44,7 +44,7 @@ address .cls-ul {
 
 header .container {
 	display: flex;
-	padding: 24px 15px;
+	padding: 24px;
 	justify-content: space-between;
 }
 
@@ -107,8 +107,6 @@ h3 {
 	margin: 0 auto;
 	padding: 0 15px;
 }
-
-
 
 .cls-h {
 	color: #FFFFFF;
