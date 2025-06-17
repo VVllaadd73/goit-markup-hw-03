@@ -44,7 +44,6 @@ address .cls-ul {
 
 header .container {
 	display: flex;
-	padding: 24px;
 	justify-content: space-between;
 }
 
@@ -94,8 +93,8 @@ h3 {
 }
 
 .container {
-	margin: 0 auto;
 	width: 1158px;
+	margin: 0 auto;
 	padding: 0 15px;
 }
 
