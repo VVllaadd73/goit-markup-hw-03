@@ -30,7 +30,6 @@ nav {
 
 nav .cls-ul {
 	gap: 40px;
-	padding-left: 76px;
 }
 
 address .cls-ul {
@@ -71,7 +70,6 @@ header a {
 
 .li-ss {
 	width: calc((100% - 72px) / 4);
-	padding-right: 24px;
 }
 
 .cls-ss {
@@ -93,17 +91,6 @@ header a {
 
 .cls-ss ul{
 	display: flex;
-	margin-top: 120px;
-	margin-bottom: 120px;
-}
-
-.cls-ss li {
-	display: flex;
-	flex-direction: column;
-}
-
-.all-doc {
-	width: 1440px;
 }
 
 .cls-h {
@@ -153,9 +140,6 @@ header a {
 
 .cls-s {
 	background-color: #2E2F42;
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
 	align-items: center;
 	padding: 188px 0;
 }
@@ -168,7 +152,6 @@ header a {
 .cls-sss ul {
 	display: flex;
 	justify-content: space-evenly;
-	margin-bottom: 120px;
 }
 
 h2 {
@@ -177,7 +160,6 @@ h2 {
 
 .card {
 	width: calc((100% - 72px) / 4);
-	margin-right: 24px;
 	background-color: #ffffff;
 	box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.1);
 	border-radius: 0px 0px 4px 4px;
@@ -188,8 +170,6 @@ h2 {
 	flex-direction: column;
 	align-items: center;
 	padding: 32px 0;
-	margin: 32px 16px;
-	width: 232px;
 }
 
 .cls-sss .cls-p {
@@ -208,20 +188,9 @@ h2 {
   list-style: none;
 }
 
-.cls-ssss h2 {
-	margin-top: 120px;
-	margin-bottom: 72px;
-}
-
 .cls-foot {
 	background-color: #2e2f42;
 	padding: 100px 0;
-}
-
-.cls-foot p {
-	width: 264pxgit;
-	margin-top: 16px;
-	margin-bottom: 100px;
 }
 
 .cls-a:hover,
@@ -241,6 +210,7 @@ h2 {
 	text-decoration: none;
 	text-transform: uppercase;
 	color: #4d5ae5;
+	margin-right: 76px;
 }
 
 footer .cls-logo {
